@@ -37,6 +37,11 @@
             <artifactId>myshop-service-content-api</artifactId>
             <version>${project.parent.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.spike</groupId>
+            <artifactId>myshop-service-redis-api</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
     </dependencies>
 
     <build>
